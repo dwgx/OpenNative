@@ -1,12 +1,26 @@
+# OpenNative
+
 ## Compliance Notice / 合规声明
 
-- This repository is provided only for education, reverse engineering research, debugging, and interoperability study.
-- Do not use any code or ideas here for unauthorized access, cheating in online services, privacy invasion, data theft, malware delivery, or service disruption.
-- You must comply with applicable laws, platform Terms of Service, and software/game EULA before any use.
-- If any content infringes your rights, open an issue or contact the maintainer for removal.
-- Full statement: [DISCLAIMER.md](./DISCLAIMER.md)
+- 本仓库仅用于学习、逆向研究、调试分析和兼容性研究。
+- 禁止用于未授权访问、破坏服务、隐私侵害、在线作弊、恶意传播等行为。
+- 使用者需自行遵守当地法律、平台条款与相关 EULA。
+- 完整声明见 [DISCLAIMER.md](./DISCLAIMER.md)
 
 ---
-# OpenNative
-OpenNative 的 Minecraft 狗屎作弊 這個作弊基於免費丶開源的LiquidBounce PS.本項目沒有任何技術力
 
+这个仓库目前是一个历史资料存档仓，核心文件是：
+
+- `OpenNative.rar`
+
+## 说明
+
+- 仓库目标是保留历史版本资料，方便后续研究和对比
+- 不保证压缩包内容可直接编译或直接运行
+- 如果你只想看结构，建议先解压后做静态阅读
+
+## 使用建议
+
+1. 在隔离环境中解压和查看
+2. 先阅读代码结构和依赖说明
+3. 仅用于合法合规的学习研究场景
